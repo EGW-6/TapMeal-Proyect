@@ -18,4 +18,5 @@ const CuadroBusquedas  = ({ textoBusqueda, manejarCambioBusqueda }) => {
 };
 
 
+
 export default CuadroBusquedas;
